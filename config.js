@@ -29,7 +29,7 @@ var config = {
             image: ' ',
             description: '',
             location: {
-                center: [ 28.888,41.274],
+                center: [28.946, 41.067],
                 zoom:15,
                 pitch: 0,
                 bearing: 0
@@ -59,7 +59,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.876, 41.266],  
+                center: [28.946, 41.067],  
                 zoom: 15,
                 pitch: 0,
                 bearing: 0,
@@ -84,7 +84,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [   28.851, 41.246],  
+                center: [28.946, 41.067],  
                 zoom: 15,
                 pitch: 0,
                 bearing: 0.00
@@ -103,7 +103,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.847, 41.227],  
+                center: [28.946, 41.067],  
                 zoom: 15,
                 pitch: 0,
                 bearing: 0
@@ -122,7 +122,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.849, 41.208],
+                center: [28.946, 41.067],
                 zoom: 15,
                 pitch: 0,
                 bearing: 0
@@ -141,7 +141,7 @@ var config = {
             image: 'https://i.ibb.co/sd2szszP/MEF-AAP-027-BAP-2025-06-24-17-54-55.png',
             description: '',
             location: {
-                center: [28.891,41.179],
+                center: [28.946, 41.067],
                 zoom: 15,
                 pitch: 0,
                 bearing: 0
@@ -160,7 +160,7 @@ var config = {
             image: 'https://i.ibb.co/LWT8Y87/MEF-AAP-027-BAP-2025-06-24-17-55-38.png',
             description: '',
             location: {
-                center: [28.983, 41.090],
+                center: [28.946, 41.067],
                 zoom: 15,
                 pitch: 0,
                 bearing: 0
@@ -179,7 +179,7 @@ var config = {
             image: 'https://i.ibb.co/S7fqSp6L/MEF-AAP-027-BAP-2025-06-24-17-56-18.png',
             description: '',
             location: {
-                center: [28.946, 41.067  ],
+                center: [28.946, 41.067],
                 zoom: 17,
                 pitch: 0,
                 bearing: 0
